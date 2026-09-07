@@ -1,34 +1,37 @@
 <h1 align="center">Hi there, I'm Satinder Singh 👋</h1>
-
 <h3 align="center">
-  Aspiring Data Analyst & Business Analyst | MCA (AI & DS)
+  Aspiring AI/ML Engineer & Data Analyst | MCA (AI & DS)
 </h3>
-
 <p align="center">
   🎓 2nd Year Post-Grad Student @ Poornima University | 📍 Jaipur, India<br>
-  Turning raw data into meaningful insights & solving complex problems.
+  Turning raw data into meaningful insights, and exploring how ML models can solve real-world problems.
 </p>
 
 ---
 
 ### 🚀 About Me
-
 - 👨‍🎓 I'm currently pursuing my **MCA in Artificial Intelligence & Data Science** at Poornima University.
-- 🎯 **Target Roles:** Looking for entry-level opportunities as a **Data Analyst**, **Business Analyst**, or in **Data Science**.
-- 🧠 **Current Focus:** Deepening my knowledge in **Data Analytics** and sharpening my **DSA & Problem Solving** skills.
-- 💼 **Status:** Fresher, eager to learn, contribute, and grow in a data-driven environment.
-- ⚡ **Fun Fact:** When I'm not analyzing data or coding, you'll find me playing Cricket 🏏, Football ⚽, Badminton 🏸, or strategizing over a game of Chess ♟️!
-- 📫 **Reach me at:** satindersingh2928@gmail.com
+- 🎯 **Target Roles:** Looking for entry-level opportunities as an **AI/ML Engineer**, **Data Analyst**, or **Data Scientist**.
+- 🧠 **Current Focus:** Strengthening my **ML fundamentals** (regression, classification, clustering) alongside **Data Analytics** and **DSA & Problem Solving**.
+- 💼 **Status:** Fresher, eager to learn, contribute, and grow in a data-driven / ML-driven environment.
+- ⚡ **Fun Fact:** When I'm not analyzing data or training models, you'll find me playing Cricket 🏏, Football ⚽, Badminton 🏸, or strategizing over a game of Chess ♟️!
+- 📫 **Reach me at:** satindersingh6586@gmail.com
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 📊 Data & Analytics
+#### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### 📊 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 #### 💻 Web & Frameworks
@@ -47,17 +50,18 @@
 ### 📌 Featured Projects
 
 **1. Student Performance Analytics & Insights System** 📈
-- **What it is:** An analytical system designed to track, process, and analyze student performance metrics.
-- **Highlights:** Generates actionable insights to help identify learning gaps and improve educational outcomes using Python and Data Analysis tools.
+- **What it is:** A full-stack Flask web app that tracks, manages, and analyzes student performance data.
+- **Highlights:** Role-based auth, cloud MySQL database, automatic grade calculation, and an integrated Power BI dashboard for actionable academic insights.
+- 🔗 [View Repo](https://github.com/satindersingh2928-spec/Student-Performance-Analytics-And-Insights-System)
 
 **2. RetailMart Data Engineering Pipeline** 🛒
-- **What it is:** A robust pipeline built to handle retail data operations.
-- **Highlights:** Focused on data extraction, cleaning, and transformation to convert raw data into analytics-ready datasets for business reporting.
+- **What it is:** An end-to-end Python data pipeline simulating a real retail company's data workflow.
+- **Highlights:** Cleans and transforms messy sales data, handles missing values/duplicates, and generates SQL-based business reports and revenue insights.
+- 🔗 [View Repo](https://github.com/satindersingh2928-spec/RetailMart_Data_Engineer)
 
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satindersingh2928-spec&show_icons=true&theme=radial&hide_border=true" alt="Satinder's GitHub Stats" />
 </p>
